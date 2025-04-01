@@ -44,7 +44,7 @@
           <mxGeometry x="245" y="255" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5mNZTicwmbRbNyMPNMCN-45" value="User" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="7026571954dc6520-1">
-          <mxGeometry x="965" y="137.5" width="30" height="20" as="geometry" />
+          <mxGeometry x="952.5" y="145" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5mNZTicwmbRbNyMPNMCN-62" value="Icon" style="icon;html=1;image=img/clipart/Gear_128x128.png;arcSize=24;" vertex="1" parent="7026571954dc6520-1">
           <mxGeometry x="20" y="135" width="40" height="40" as="geometry" />
@@ -146,7 +146,7 @@
         <mxCell id="5mNZTicwmbRbNyMPNMCN-188" value="Dashbroad" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.anchor;fontSize=22;fontColor=#666666;fontStyle=1;" vertex="1" parent="7026571954dc6520-1">
           <mxGeometry x="45" y="255" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5mNZTicwmbRbNyMPNMCN-189" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=97.5;fillColor2=#99ddff;strokeColor2=none;direction=north;" vertex="1" parent="7026571954dc6520-1">
+        <mxCell id="5mNZTicwmbRbNyMPNMCN-189" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=98.563;fillColor2=#99ddff;strokeColor2=none;direction=north;" vertex="1" parent="7026571954dc6520-1">
           <mxGeometry x="1037.5" y="250" width="20" height="500" as="geometry" />
         </mxCell>
         <mxCell id="5mNZTicwmbRbNyMPNMCN-194" value="&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(134, 144, 153); font-family: &amp;quot;Source Sans Pro&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;IPTV version&lt;/span&gt;&lt;span style=&quot;color: rgb(134, 144, 153); font-family: &amp;quot;Source Sans Pro&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;2.0&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7026571954dc6520-1">
@@ -181,6 +181,9 @@
         </mxCell>
         <mxCell id="5mNZTicwmbRbNyMPNMCN-207" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.energy;" vertex="1" parent="7026571954dc6520-1">
           <mxGeometry x="530" y="138.75" width="17.82" height="23.75" as="geometry" />
+        </mxCell>
+        <mxCell id="5mNZTicwmbRbNyMPNMCN-208" value="Users" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=18;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="650" y="185" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
